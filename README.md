@@ -7,6 +7,7 @@ Comprehensive Funnel Conversion Analysis using GA4 and BigQuery
 <div align="center">  
   <img src="https://github.com/Roque2425/Ecommerce-Funnel-Analysis-Tableau-BigQuery/blob/main/ecommerce_funnel_analysis2.png" width="95%">  
 </div>  
+
 ### Table of Contents <a name="toc"></a>
 
 [1. Background](#background)  
