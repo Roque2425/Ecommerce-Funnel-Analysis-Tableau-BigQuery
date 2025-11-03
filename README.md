@@ -1,7 +1,7 @@
 # eCommerce Funnel Analysis Dashboard Report  
 
 <p align="justify">
-Comprehensive Funnel Conversion Analysis using GA4 and BigQuery – A DataSense PH Analytics Challenge Presentation.
+Comprehensive Funnel Conversion Analysis using GA4 and BigQuery
 </p>
 
 <div align="center">  
