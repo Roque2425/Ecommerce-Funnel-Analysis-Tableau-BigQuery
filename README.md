@@ -4,6 +4,9 @@
 Comprehensive Funnel Conversion Analysis using GA4 and BigQuery – A DataSense PH Analytics Challenge Presentation.
 </p>
 
+<div align="center">  
+  <img src="https://github.com/Roque2425/Ecommerce-Funnel-Analysis-Tableau-BigQuery/blob/main/ecommerce_funnel_analysis2.png" width="95%">  
+</div>  
 ### Table of Contents <a name="toc"></a>
 
 [1. Background](#background)  
@@ -35,10 +38,6 @@ To analyze the online purchasing funnel by tracking user engagement and conversi
 
 ## 3. Funnel Overview <a name="funnel-overview"></a> <a href="#toc">[↑]</a>
 
-<div align="center">  
-  <img src="https://github.com/RielRoque/Ecommerce-Funnel-Analysis/blob/main/Funnel%20Dashboard.png?raw=true" width="95%">  
-</div>  
-
 ### Top KPIs:
 - **Visits (Sessions):** 481,209  
 - **Orders:** 4,851  
@@ -62,9 +61,6 @@ A significant drop-off occurs between “View Item” and “Add to Cart,” fol
 
 ## 4. Device Segmentation Report <a name="device-segmentation"></a> <a href="#toc">[↑]</a>
 
-<div align="center">  
-  <img src="https://github.com/RielRoque/Ecommerce-Funnel-Analysis/blob/main/Device%20Dashboard.png?raw=true" width="95%">  
-</div>  
 
 ### Sessions by Device:
 - **Desktop:** ~279K sessions  
@@ -79,9 +75,6 @@ Desktop users dominate across all funnel stages, followed by Mobile users, while
 
 ## 5. Traffic Source Report <a name="traffic-source"></a> <a href="#toc">[↑]</a>
 
-<div align="center">  
-  <img src="https://github.com/RielRoque/Ecommerce-Funnel-Analysis/blob/main/Traffic%20Dashboard.png?raw=true" width="95%">  
-</div>  
 
 ### Traffic Distribution:
 - **Top Sources:** Google, Direct, and Other channels  
@@ -95,10 +88,7 @@ The analysis shows that Google and Direct channels drive the majority of traffic
 ---
 
 ## 6. User Trend Analysis <a name="user-trends"></a> <a href="#toc">[↑]</a>
-
-<div align="center">  
-  <img src="https://github.com/RielRoque/Ecommerce-Funnel-Analysis/blob/main/User%20Trends.png?raw=true" width="95%">  
-</div>  
+ 
 
 ### Temporal Insights:
 - **Timeframe:** November 2020 – January 2021  
