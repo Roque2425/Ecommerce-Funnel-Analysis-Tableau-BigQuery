@@ -140,6 +140,6 @@ User activity peaks around mid-December, suggesting seasonal spikes likely drive
 
 ### Tools & Technologies Used <a href="#toc">[↑]</a>
 
-The project was developed using **BigQuery for data extraction**, **Google Analytics 4 (GA4)** for session-level tracking, and **Power BI** for dashboard visualization and interactivity.
+The project was developed using **BigQuery for data extraction**, **Google Analytics 4 (GA4)** for session-level tracking, and **Tableau** for dashboard visualization and interactivity.
 
-**DataSense PH eCommerce Funnel Analysis Challenge by Riel Roque** 🚀  
+**eCommerce Funnel Analysis by Riel Roque**
